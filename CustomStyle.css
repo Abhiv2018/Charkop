@@ -1,0 +1,27 @@
+	
+
+
+
+body{
+	background-color: black;
+	color: white;
+}
+.jumbotron{
+	padding: 50px;
+	background-image: url(images/1.jpg);
+	background-size: cover;
+	margin-bottom:0.1;
+}
+
+.m1{
+	padding: 125px;
+	margin-top:0.1px;
+
+}
+
+footer{
+	margin-top: 50px;
+	padding-top: 1rem;
+	padding-bottom: 1rem;
+	background-color: lightgray;
+}
