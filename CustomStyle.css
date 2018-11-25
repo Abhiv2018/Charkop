@@ -5,19 +5,16 @@
 body{
 	background-color: black;
 	color: white;
+	font-family: monospace;
 }
 .jumbotron{
-	padding: 50px;
+	padding-top: 150px;
 	background-image: url(images/1.jpg);
 	background-size: cover;
-	margin-bottom:0.1;
+	color: white;
 }
 
-.m1{
-	padding: 125px;
-	margin-top:0.1px;
 
-}
 
 footer{
 	margin-top: 50px;
@@ -25,3 +22,48 @@ footer{
 	padding-bottom: 1rem;
 	background-color: lightgray;
 }
+
+.RealEstate{
+	background-image: url(images/realestate.jpg);
+	margin-top: 20px;
+	padding-top: 150px;
+	background-size: cover;
+	color: white;
+}
+
+
+.guitar{
+	background-image: url(images/guitar.jpg);
+	margin-top: 20px;
+	padding-top: 150px;
+	background-size: cover;
+	color: white;
+}
+
+
+.education{
+	background-image: url(images/education.jpg);
+	margin-top: 20px;
+	padding-top: 150px;
+	background-size: cover;
+	color: white;
+}
+
+
+
+.electrictian{
+	background-image: url(images/electrictian.jpg);
+	margin-top: 20px;
+	padding-top: 150px;
+	background-size: cover;
+	color: white;
+}
+
+.plumber{
+	background-image: url(images/plumber.jpg);
+	margin-top: 20px;
+	padding-top: 150px;
+	background-size: cover;
+	color: white;
+}
+
